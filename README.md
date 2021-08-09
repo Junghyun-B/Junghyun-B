@@ -1,14 +1,14 @@
 # About me
 
-**NAME** : Junghyun Bang
+✔ **NAME** : Junghyun Bang
 
-**BIRTH** : April 17th, 1993
+✔ **BIRTH** : April 17th, 1993
 
-**GENDER** : Female
+✔ **GENDER** : Female
 
-**ADDRESS** : Seoul, Korea
+✔ **ADDRESS** : Seoul, Korea
 
-**MAIL** : 7304126@naver.com
+✔ **MAIL** : 7304126@naver.com
 
   
 
